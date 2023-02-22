@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fVnfrCG6Sv2FYUfRByT6HrpsnDEie1J/bJAAFjrcPy/rpvryFbsnx3m0tezSu4V9HPQoJD9PMwtn2nckIimyBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruger\\source\\repos\\Functional_programming\\Exercise 1_Translating date epoch-day\\Exercise 1_Translating date epoch-day\\Exercise1_Translating_date_epoch_day.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruger\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

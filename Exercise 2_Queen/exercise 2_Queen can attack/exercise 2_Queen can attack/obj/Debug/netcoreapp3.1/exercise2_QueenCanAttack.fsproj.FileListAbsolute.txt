@@ -1,0 +1,8 @@
+C:\Users\Bruger\source\repos\Functional_programming\Exercise 2_Queen\exercise 2_Queen can attack\exercise 2_Queen can attack\bin\Debug\netcoreapp3.1\exercise2_QueenCanAttack.deps.json
+C:\Users\Bruger\source\repos\Functional_programming\Exercise 2_Queen\exercise 2_Queen can attack\exercise 2_Queen can attack\bin\Debug\netcoreapp3.1\exercise2_QueenCanAttack.dll
+C:\Users\Bruger\source\repos\Functional_programming\Exercise 2_Queen\exercise 2_Queen can attack\exercise 2_Queen can attack\bin\Debug\netcoreapp3.1\exercise2_QueenCanAttack.pdb
+C:\Users\Bruger\source\repos\Functional_programming\Exercise 2_Queen\exercise 2_Queen can attack\exercise 2_Queen can attack\obj\Debug\netcoreapp3.1\exercise2_QueenCanAttack.fsproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\Functional_programming\Exercise 2_Queen\exercise 2_Queen can attack\exercise 2_Queen can attack\obj\Debug\netcoreapp3.1\exercise2_QueenCanAttack.AssemblyInfoInputs.cache
+C:\Users\Bruger\source\repos\Functional_programming\Exercise 2_Queen\exercise 2_Queen can attack\exercise 2_Queen can attack\obj\Debug\netcoreapp3.1\exercise2_QueenCanAttack.AssemblyInfo.fs
+C:\Users\Bruger\source\repos\Functional_programming\Exercise 2_Queen\exercise 2_Queen can attack\exercise 2_Queen can attack\obj\Debug\netcoreapp3.1\exercise2_QueenCanAttack.dll
+C:\Users\Bruger\source\repos\Functional_programming\Exercise 2_Queen\exercise 2_Queen can attack\exercise 2_Queen can attack\obj\Debug\netcoreapp3.1\exercise2_QueenCanAttack.pdb

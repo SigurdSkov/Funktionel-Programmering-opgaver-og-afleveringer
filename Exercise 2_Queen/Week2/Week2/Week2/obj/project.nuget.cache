@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "989EXPBmBSknGubjT8mMLYcG3a4R2xb41qz3BqGdbiCw4MR4tk5kL/+ofXZvHE0ZVnnIPygBG/ctTVhcbpN/DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruger\\source\\repos\\Functional_programming\\Exercise 2_Queen\\Week2\\Week2\\Week2\\Week2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruger\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

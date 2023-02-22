@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "exercise2_QueenCanAttack", "exercise 2_Queen can attack\exercise2_QueenCanAttack.fsproj", "{03730351-13E9-44DB-A19B-5F844C6B8C62}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Console", "Console\Console.fsproj", "{02937B22-7ABC-4E6C-B786-E547CEE73FDA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{03730351-13E9-44DB-A19B-5F844C6B8C62} = {03730351-13E9-44DB-A19B-5F844C6B8C62}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03730351-13E9-44DB-A19B-5F844C6B8C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03730351-13E9-44DB-A19B-5F844C6B8C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03730351-13E9-44DB-A19B-5F844C6B8C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03730351-13E9-44DB-A19B-5F844C6B8C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02937B22-7ABC-4E6C-B786-E547CEE73FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02937B22-7ABC-4E6C-B786-E547CEE73FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02937B22-7ABC-4E6C-B786-E547CEE73FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02937B22-7ABC-4E6C-B786-E547CEE73FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A932BA65-A854-4A2A-AA74-06373BEC32ED}
+	EndGlobalSection
+EndGlobal

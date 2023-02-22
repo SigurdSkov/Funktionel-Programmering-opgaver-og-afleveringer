@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SB1B9YqnGBXbY3nv51UMhlEkMFEVu6KCzrpKpDc33BH0jCfRWchEW6pmMSGsCG+SFLsaDkJJAZvM+ifRCgNTfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruger\\source\\repos\\Functional_programming\\Exercise 2_Queen\\exercise 2_Queen can attack\\exercise 2_Queen can attack\\exercise2_QueenCanAttack.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruger\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

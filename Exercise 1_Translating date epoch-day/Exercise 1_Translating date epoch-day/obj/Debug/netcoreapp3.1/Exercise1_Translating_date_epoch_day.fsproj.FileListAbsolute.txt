@@ -1,0 +1,8 @@
+C:\Users\Bruger\source\repos\Functional_programming\Exercise 1_Translating date epoch-day\Exercise 1_Translating date epoch-day\bin\Debug\netcoreapp3.1\Exercise1_Translating_date_epoch_day.deps.json
+C:\Users\Bruger\source\repos\Functional_programming\Exercise 1_Translating date epoch-day\Exercise 1_Translating date epoch-day\bin\Debug\netcoreapp3.1\Exercise1_Translating_date_epoch_day.dll
+C:\Users\Bruger\source\repos\Functional_programming\Exercise 1_Translating date epoch-day\Exercise 1_Translating date epoch-day\bin\Debug\netcoreapp3.1\Exercise1_Translating_date_epoch_day.pdb
+C:\Users\Bruger\source\repos\Functional_programming\Exercise 1_Translating date epoch-day\Exercise 1_Translating date epoch-day\obj\Debug\netcoreapp3.1\Exercise1_Translating_date_epoch_day.fsproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\Functional_programming\Exercise 1_Translating date epoch-day\Exercise 1_Translating date epoch-day\obj\Debug\netcoreapp3.1\Exercise1_Translating_date_epoch_day.AssemblyInfoInputs.cache
+C:\Users\Bruger\source\repos\Functional_programming\Exercise 1_Translating date epoch-day\Exercise 1_Translating date epoch-day\obj\Debug\netcoreapp3.1\Exercise1_Translating_date_epoch_day.AssemblyInfo.fs
+C:\Users\Bruger\source\repos\Functional_programming\Exercise 1_Translating date epoch-day\Exercise 1_Translating date epoch-day\obj\Debug\netcoreapp3.1\Exercise1_Translating_date_epoch_day.dll
+C:\Users\Bruger\source\repos\Functional_programming\Exercise 1_Translating date epoch-day\Exercise 1_Translating date epoch-day\obj\Debug\netcoreapp3.1\Exercise1_Translating_date_epoch_day.pdb
