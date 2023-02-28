@@ -1,0 +1,6 @@
+Her er linket til mit repository
+https://github.com/SigurdSkov/Funktionel-Programmering-opgaver-og-afleveringer.git
+
+Hvad jeg ikke lavede:
+Den optionelle opgave
+ - Altså det virker ikke, så der er jo et eller andet jeg ikke fik gjort rigtigt.
