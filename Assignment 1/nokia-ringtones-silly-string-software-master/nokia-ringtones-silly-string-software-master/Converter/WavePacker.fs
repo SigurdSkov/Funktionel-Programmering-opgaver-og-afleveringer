@@ -48,6 +48,7 @@ let pack (d: int16[]) =
     writer.Write (Encoding.ASCII.GetBytes(subchunk2IDString))
     writer.Write subchunk2Size
     writer.Write byteArray
+    //BinaryPrimitives.ReverseEndianness("string")
 
     stream
 

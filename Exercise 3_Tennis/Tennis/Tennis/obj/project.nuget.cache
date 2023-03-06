@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BFALTVdsF29vvyk8HxqzfcL/zP4lAL5+FVhs+29945Q/biwo6kBp7R7kG+LUxXK717G0PiJB7gC3Dr9wzVDHyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruger\\Documents\\Fpg\\Exercise 3_Tennis\\Tennis\\Tennis\\Tennis.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruger\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
